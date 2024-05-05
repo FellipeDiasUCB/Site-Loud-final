@@ -1,0 +1,98 @@
+body{
+    background-color: black;
+}
+.logoloud{
+    display: inline-block;
+
+}
+.loudd{
+    display: inline-block;
+}
+
+
+.container img {
+    position: relative;
+    left: 350px;
+    max-width:140px;
+    max-height:46px;
+    width: auto;
+    height: auto;
+}
+.line img {
+    position: absolute;
+    right: 400px;
+    max-width:1400px;
+    max-height:78px;
+    width: auto;
+    height: auto;
+    align-items: center;
+    display: inline-block;
+}
+.logoloud{
+    position: absolute;
+    right: 400px;
+    width: 300px;
+    height: 200px;
+    padding: 0px;
+    display: inline-block;
+}
+.globo{
+    position: absolute;
+    right: 0px;
+    width: 1200px;
+    height: 200px;
+    padding: 0px;
+    display: inline-block;
+
+
+}
+.tuyzloud img{
+    position: absolute;
+    right: 350px;
+    width: 300px;
+    height: 100px;
+    padding: 100px;
+    display: inline-block;
+    max-width:341px;
+    max-height:250px;
+    width: auto;
+    height: auto;
+}
+
+p{
+    position:relative;
+    left: 400px;
+    font-style:normal;
+    font-size:medium;
+    color: white;
+    font-stretch: extra-condensed;
+    display: inline-block;
+
+}
+h1 {
+    position:relative;
+    left: 400px;
+    font-family:fantasy;
+    color: white;
+    
+    
+
+}
+h2{
+    font-style:normal;
+    font-size:medium;
+    color: white;
+    font-stretch: extra-condensed;
+}
+h3{
+    font-style:normal;
+    font-size:medium;
+    color: white;
+    font-stretch: extra-condensed;
+}
+h4{
+    font-style:normal;
+    font-size:medium;
+    color: white;
+    font-stretch: extra-condensed;
+}
